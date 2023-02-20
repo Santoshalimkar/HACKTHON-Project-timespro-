@@ -5,7 +5,7 @@ This is a web application built using MERN stack technology. The application hel
 
 *The web application has the following features:*
 
--User Registration: Pensioners can register on the website using their email address.<br>
+- User Registration: Pensioners can register on the website using their email address.<br>
 
 -Home Page: Pensioners can view their details on the home page.<br>
 
